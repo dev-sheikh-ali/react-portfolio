@@ -1,8 +1,5 @@
 
 ## How to install this project
-
-you need xampp/lampp to run this project .
-create a db named `carrental` and import the sql file in your myphpadmin
 <br/>
 
 
