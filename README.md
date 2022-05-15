@@ -1,6 +1,6 @@
 
 ## How to install this project
-- dont forget to give a star⭐
+- dont forget to give this repo a star⭐
 ## 1. To download execute
 
     git clone https://github.com/dev-sheikh-ali/react-portfolio.git
@@ -24,7 +24,8 @@ Tips:
 - `cd backend_sanity` then `sanity start`
 ## 4 Deployment
 You can deploy easily by using [netlify](https://netlify.com/) 🎉 <br/>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/99ead0f4-1cd6-4bfb-945d-44c0f83b5099/deploy-status)](https://app.netlify.com/sites/dev-sheikh-ali/deploys)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-netlify-starter)
+
 ## 5. Screenshots/gifs
 <br/><br/>
 <img align="right" alt="dash" src="https://github.com/dev-sheikh-ali/react-portfolio/blob/main/src/Screenshots/ezgif.com-gif-maker%20(1).gif?raw=true" height="500"/>
