@@ -1,8 +1,6 @@
 
 ## How to install this project
-<br/>
-
-
+- dont forget to give a star⭐
 ## 1. To download execute
 
     git clone https://github.com/dev-sheikh-ali/react-portfolio.git
