@@ -3,11 +3,11 @@
 <br/>
 
 
-## 1. To download run
+## 1. To download execute
 
     git clone https://github.com/dev-sheikh-ali/react-portfolio.git
 
-## 2. To install run
+## 2. To install execute
 > :React: **run the following command **  
    
      npm install
@@ -25,7 +25,7 @@ Tips:
 > :Sanity: **run the following command **    
 - `cd backend_sanity` then `sanity start`
      
-## 5. Screenshots
+## 5. Screenshots/gifs
 <br/><br/>
 <img align="right" alt="dash" src="https://github.com/dev-sheikh-ali/react-portfolio/blob/main/src/Screenshots/ezgif.com-gif-maker%20(1).gif?raw=true" height="500"/>
 <img align="right" alt="dash" src="https://github.com/dev-sheikh-ali/react-portfolio/blob/main/src/Screenshots/portfolio.gif?raw=true" height="500"/>
