@@ -6,21 +6,21 @@
     git clone https://github.com/dev-sheikh-ali/react-portfolio.git
 
 ## 2. To install execute
-> :React: **run the following command **  
+> :React: **run the following command**  
    
      npm install
-> :Sanity: **run the following command **       
+> :Sanity: **run the following command**       
 Tips:
-    - make new directory named **backend_sanity"
+    - make new directory named **backend_sanity**
     - run `sanity init`
     - name your sanity project then choose empty template
     - copy the chemas from my backend sanity directory
     
 ## 3. To run    
-> :React: **run the following command ** 
+> :React: run the following command
      
      npm start
-> :Sanity: **run the following command **    
+> :Sanity: run the following command     
 - `cd backend_sanity` then `sanity start`
 ## 4 Deployment
 You can deploy easily by using [netlify](https://netlify.com/) 🎉 <br/>
